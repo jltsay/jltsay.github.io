@@ -49169,7 +49169,7 @@ p.a=!1
 p.ak()
 n=q.x
 o=q.r.length
-n+=o+C.bw.pi(o)
+n+=o*3+C.bw.pi(o)
 q.x=n
 s=2
 return P.av(q.gwL().fw(n*50,C.by,P.c1(0,0,5)),$async$nM)
@@ -52994,7 +52994,7 @@ C.Cy=new A.n(!0,C.j,null,"Segoe UI",null,null,null,null,null,null,null,null,null
 C.By=new A.n(!0,C.j,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,C.f,null,null,null,"whiteRedmond overline",null,null)
 C.Dx=new R.cL(C.Cn,C.Co,C.Cp,C.Cq,C.D5,C.D6,C.Cj,C.Ck,C.Bo,C.Bp,C.AE,C.Cy,C.By)
 C.ju=new U.B_("TextWidthBasis.longestLine")
-C.Dy=new L.rs("Entries",null,null)
+C.Dy=new L.rs("Entries v2.01",null,null)
 C.Fv=new S.TW("ThemeMode.system")
 C.Dz=new M.rD(null)
 C.aR=new P.mR(0,"TileMode.clamp")
